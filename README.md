@@ -17,3 +17,6 @@ CONTROLS & CUSTOMIZATION:
 - Scroll Collected Items: [Left] / [Right]
 - Close / Return: [Esc] or Back button
 - Rebind Hotkey: Press [F2] inside the History panel, configure under Mod Config Menu (Run History -> Controls), or run `history_key <KEY>` in the debug console.
+
+### Link to steam workshop
+https://steamcommunity.com/sharedfiles/filedetails/?id=3840485000
